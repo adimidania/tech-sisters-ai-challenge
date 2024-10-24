@@ -3,7 +3,9 @@
 ## Introduction
 
 **Assalamualaikum, dear sister, and welcome to the AI One-Month Challenge Repository for Tech Sisters! 🎉**
+
 This month, we’re focusing on learning about Large Language Models (LLMs) and experimenting with the Google Gemini API. As part of the challenge, we’re taking the [Gemini API course by Udacity](https://www.udacity.com/course/gemini-API-by-google--cd13416) and pairing it with a small project to help you put your knowledge into practice.
+
 Even if you’ve never worked with Streamlit before, don’t worry! You’ll find it easy to get started and have fun learning! 😊
 
 ## Project Overview
